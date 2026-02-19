@@ -1,6 +1,8 @@
 # Hi there, I'm Francesco 👋
 I am a lifelong nerd who loves everything related to gaming and programming.
-I build AI-powered systems, backend services, and data pipelines, with a growing interest in the world of Web3.
+I started my professional career in the world of backend development, working mostly with Java. After a 1 year work experience i decided to turn my life around and i got a bachelor's degree in Mathematics. Ever since getting my bachelor's i worked as a Data Engineer for 3 years before switching to be a researcher AI Architect & Engineer at my university. In 2026 i finally got my master's degree in Computer Science with a curriculum in Artificial Intelligence and Informatics for Robotics.
+
+Now my professional goal is to leave my mark in the world of AI!
 
 ## When it comes to AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,6 +29,9 @@ I build AI-powered systems, backend services, and data pipelines, with a growing
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
 ## Also skilled in
 **AI & ML:** `Deep Learning` `Machine Learning` `LLMs` `RAG` `Fine Tuning` `Agentic Programming`
