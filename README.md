@@ -9,6 +9,7 @@ I build AI-powered systems, backend services, and data pipelines, with a growing
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ## When it comes to development
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=Rust&logoColor=white)
