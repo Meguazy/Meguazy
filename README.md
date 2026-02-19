@@ -1,5 +1,5 @@
 # Hi there, I'm Francesco 👋
-It all started with a Minecraft mod at age 9. Now I build production AI systems. Some things never change.
+It all started with a Minecraft mod at age 12. Now I build production AI systems. Some things never change.
 
 Backend dev turned mathematician turned Data Engineer turned AI researcher. My path hasn't been straight, but every turn was deliberate. Master's in Computer Science (AI & Robotics) in 2026.
 
