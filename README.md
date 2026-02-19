@@ -44,6 +44,7 @@ Now my professional goal is to leave my mark in the world of AI!
 **Data Engineering:** `ETL` `Data Warehouse Management`
 
 ## Passionate about
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![PC Gaming](https://img.shields.io/badge/PC%20Gaming-black?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
