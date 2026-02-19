@@ -32,7 +32,7 @@ I build AI-powered systems, backend services, and data pipelines, with a growing
 **Data Engineering:** `ETL` `Data Warehouse Management`
 
 ## Passionate about
-![🇯🇵 Japan](https://img.shields.io/badge/🇯🇵%20Japan-white?style=for-the-badge&logoColor=BC002D)
+![Japan](https://img.shields.io/badge/Japan-BC002D?style=for-the-badge&logo=japan-airlines&logoColor=white)
 ![PC Gaming](https://img.shields.io/badge/PC%20Gaming-black?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
