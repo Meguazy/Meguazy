@@ -1,7 +1,7 @@
 # Hi there, I'm Francesco 👋
-I am a lifelong nerd who loves everything related to gaming and computers. I wrote my first line of code at 9 years of age, trying to create a Minecraft mod.
+It all started with a Minecraft mod at age 9. Now I build production AI systems. Some things never change.
 
-I started my professional career in the world of backend development, working mostly with Java. After a 1 year work experience i decided to turn my life around and i got a bachelor's degree in Mathematics. Ever since getting my bachelor's i worked as a Data Engineer for 3 years before switching to be a researcher AI Architect & Engineer at my university. In 2026 i finally got my master's degree in Computer Science with a curriculum in Artificial Intelligence and Informatics for Robotics.
+Backend dev turned mathematician turned Data Engineer turned AI researcher. My path hasn't been straight, but every turn was deliberate. Master's in Computer Science (AI & Robotics) in 2026.
 
 Now my professional goal is to leave my mark in the world of AI!
 
