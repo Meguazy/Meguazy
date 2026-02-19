@@ -32,11 +32,11 @@ I build AI-powered systems, backend services, and data pipelines, with a growing
 **Data Engineering:** `ETL` `Data Warehouse Management`
 
 ## Passionate about
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Japan](https://img.shields.io/badge/🇯🇵%20Japan-white?style=for-the-badge&logoColor=BC002D)
 ![PC Gaming](https://img.shields.io/badge/PC%20Gaming-black?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Let's connect on
-<a href="https://www.linkedin.com/in/christian-kobril-8ab077168/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/CKobril">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="https://www.instagram.com/ckobril/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/francesco-finucci-b096bb219/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://x.com/FrancescoF97641">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/francesco.finucci/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
