@@ -32,7 +32,6 @@ I build AI-powered systems, backend services, and data pipelines, with a growing
 **Data Engineering:** `ETL` `Data Warehouse Management`
 
 ## Passionate about
-![3D printing](https://img.shields.io/badge/Prusa-FF6900?style=for-the-badge&logo=prusa&logoColor=white)
 ![PC Gaming](https://img.shields.io/badge/PC%20Gaming-black?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
