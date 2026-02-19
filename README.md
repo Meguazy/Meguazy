@@ -1,4 +1,4 @@
-# Hi there, I'm Christian 👋
+# Hi there, I'm Francesco 👋
 I am a lifelong nerd who loves everything related to gaming and programming.
 I build AI-powered systems, backend services, and data pipelines, with a growing interest in the world of Web3.
 
@@ -8,6 +8,7 @@ I build AI-powered systems, backend services, and data pipelines, with a growing
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ## When it comes to development
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=Rust&logoColor=white)
@@ -23,6 +24,8 @@ I build AI-powered systems, backend services, and data pipelines, with a growing
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ## Also skilled in
 **AI & ML:** `Deep Learning` `Machine Learning` `LLMs` `RAG` `Fine Tuning` `Agentic Programming`
