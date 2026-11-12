@@ -31,7 +31,7 @@ and backend development.
 | **Conversational AI platform** | Collaborative architecture and implementation across retrieval, APIs and voice/avatar integration. | [Case study](https://meguazy.github.io/en/projects/conversational-ai/) |
 | **Document retrieval** | Collaborative work across document processing, vector search, reranking and evaluation. | [Case study](https://meguazy.github.io/en/projects/document-retrieval/) |
 | **Scheduling optimizer** | A two-stage mixed-integer model for ticket-machine scheduling under service and operating constraints. | [Case study](https://meguazy.github.io/en/projects/scheduling-optimizer/) |
-| **Money Tracker** | Natural-language expense tracking with deterministic rules and bounded AI workflows. | [Design case study · private source](https://meguazy.github.io/en/projects/money-tracker/) |
+| **Money Tracker** | Natural-language expense tracking with deterministic rules and bounded AI workflows. | [Source](https://github.com/Meguazy/money_tracker) · [Case study](https://meguazy.github.io/en/projects/money-tracker/) |
 
 The research case studies describe my contribution without exposing client identities,
 source code or private data.
